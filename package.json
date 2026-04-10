@@ -1,20 +1,20 @@
 {
   "name": "codice-sconto-amazon",
   "version": "1.0.0",
-  "description": "Fetch automat de coduri de reducere Amazon de pe shopilo.it",
+  "description": "Recupero automatico di codici sconto Amazon da shopilo.it",
   "main": "index.js",
   "keywords": [
-    "cod-reducere",
-    "cod-reducere-amazon",
+    "codice-sconto",
+    "codice-sconto-amazon",
     "voucher-amazon",
-    "cupon-amazon",
-    "reduceri",
+    "coupon-amazon",
+    "sconti",
     "shopilo",
-    "cupoane"
+    "coupon"
   ],
   "author": "shopilo-it",
   "license": "MIT",
-  "homepage": "https://shopilo.it/magazin/amazon.it",
+  "homepage": "https://shopilo.it/negozi/amazon.it",
   "repository": {
     "type": "git",
     "url": "https://github.com/shopilo-it/codice-sconto-amazon.git"
